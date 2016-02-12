@@ -2,7 +2,7 @@
 ## Introduction 
    This is a simple system to watering your plants when you are on holidays or just because you're lazy
    as me and you don't want to check your plants every day.
-   Basically this system is for a Bonzaï tree who need to be constantly wet but delays can be adjust for your needs. 
+   Basically this system is for a Bonzaï tree who needs to be constantly wet. But it can be adjust to fit your needs. 
    
    A sensor check the soil moisture and when it's dry a pump is switched on.
    The pump is switched off when the sensor is wet. 
