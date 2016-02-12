@@ -19,11 +19,11 @@ With a bad sensor you will have some overfill problem.
 * 1 DC pump
 * PVC tubes
 
-## Test it =
+## Test it
 In arduino code, set the delay value in line 92 to 0 - default: delay(18000000) 
 Open a serial monitor and with potentiometer adjust the "dry" value. Test it with your plant.
  
-## Installation =
+## Installation
 Upload .ino code into the Arduino.
 
 
